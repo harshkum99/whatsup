@@ -1,0 +1,113 @@
+{
+    "chat": [
+        {
+            "photo" : "assets/images/femaleA.jpg",
+            "name" : "Sarah Johnson",
+            "last_msg" : "Hey there! How's your day going?",
+            "timestamp": "2024-03-01T09:45:00"
+        },
+        {
+            "photo" : "assets/images/maleA.jpeg",
+            "name" : "Alex Nguyen",
+            "last_msg" : "Hi! Have you seen the latest episode of that show we were talking about?",
+            "timestamp": "2024-03-01T13:20:00"
+
+        },
+        {
+            "photo" : "assets/images/femaleB.jpeg",
+            "name" : "Emily Patel",
+            "last_msg" : "Hey Emily! Did you hear about the new restaurant opening downtown?",
+            "timestamp": "2024-03-01T17:00:00"
+        },
+        {
+            "photo" : "assets/images/maleB.jpeg",
+            "name" : "Daniel Garcia",
+            "last_msg" : "Hi Daniel! What are your plans for the weekend?",
+            "timestamp": "2024-03-02T08:30:00"
+        },
+        {
+            "photo" : "assets/images/femaleC.webp",
+            "name" : "Jasmine Khan",
+            "last_msg" : "Hey Jasmine! Remember our trip to the beach last summer? Good times!",
+            "timestamp": "2024-03-02T11:15:00"
+        },
+        {
+            "photo" : "assets/images/maleC.jpeg",
+            "name" : "Ryan Taylor",
+            "last_msg" : "Hi Ryan! Let's catch up soon over coffee.",
+            "timestamp": "2024-03-02T14:00:00"
+        },
+        {
+            "photo" : "assets/images/femaleA.jpg",
+            "name" : "Mia Martinez",
+            "last_msg" : "Hey Mia! How was your weekend getaway?",
+            "timestamp": "2024-03-02T18:45:00"
+        },
+        {
+            "photo" : "assets/images/maleA.jpeg",
+            "name" : "Liam Chen",
+            "last_msg" : "Hi Liam! How's the new project at work coming along?",
+            "timestamp": "2024-03-03T09:00:00"
+        },
+        {
+            "photo" : "assets/images/femaleB.jpeg",
+            "name" : "Olivia Brown",
+            "last_msg" : "Hey Olivia! Do you want to grab lunch together tomorrow?",
+            "timestamp": "2024-03-03T12:20:00"
+        },
+        {
+            "photo" :  "assets/images/maleB.jpeg",
+            "name" : "Ethan Kim",
+            "last_msg" : "Hi Ethan! Did you watch the game last night?",
+            "timestamp": "2024-03-03T15:30:00"
+        },
+        {
+            "photo" : "assets/images/femaleC.webp",
+            "name" : "Ava Gupta",
+            "last_msg" : "Hey Ava! Just wanted to say hello and see how you're doing.",
+            "timestamp": "2024-03-03T19:10:00"
+        },
+        {
+            "photo" : "assets/images/maleC.jpeg",
+            "name" : "Noah Singh",
+            "last_msg" : "Hi Noah! Have you checked out the new music album released by your favorite artist?",
+            "timestamp": "2024-03-04T08:15:00"
+        },
+        {
+            "photo" : "assets/images/femaleA.jpg",
+            "name" : "Emma Rodriguez",
+            "last_msg" : "Hey Emma! Let's plan that movie night we've been talking about.",
+            "timestamp": "2024-03-04T11:30:00"
+        },
+        {
+            "photo" : "assets/images/maleA.jpeg",
+            "name" : "Lucas Wong",
+            "last_msg" : "Hi Lucas! How's the weather over there? It's been raining cats and dogs here!",
+            "timestamp": "2024-03-04T14:45:00"
+        },
+        {
+            "photo" : "assets/images/femaleB.jpeg",
+            "name" : "Isabella Ali",
+            "last_msg" : "Hey Isabella! Do you want to join us for dinner tonight?",
+            "timestamp": "2024-03-04T17:00:00"
+        },
+        {
+            "photo" :  "assets/images/maleB.jpeg",
+            "name" : "Mason Kumar",
+            "last_msg" : "Hi Mason! How's your pet doing? I remember you were worried about their health.",
+            "timestamp": "2024-03-04T20:30:00"
+        },
+        {
+            "photo" : "assets/images/femaleC.webp",
+            "name" : "Sophia Khan",
+            "last_msg" : "Hey Sophia! Have you tried that new recipe I sent you?",
+            "timestamp": "2024-03-05T09:00:00"
+        },
+        {
+            "photo" : "assets/images/maleC.jpeg",
+            "name" : "Benjamin Patele",
+            "last_msg" : "Hi Benjamin! What are your thoughts on the latest book you've been reading?",
+            "timestamp": "2024-03-05T12:45:00"
+        }
+    ]
+}
