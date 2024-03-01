@@ -1,16 +1,11 @@
 # whatsup
 
-A new Flutter project.
+release apk link : https://drive.google.com/file/d/1MI97V2X_tnVfc96J2dFFp71xkFa2OZBr/view?usp=drive_link
 
-## Getting Started
+<img width="517" alt="chat_dashboard" src="https://github.com/harshkum99/whatsup/assets/122433517/fccc4b8e-1309-4755-af5a-7a5e52acc702">
+Home Screen
 
-This project is a starting point for a Flutter application.
+<img width="517" alt="chat_screen" src="https://github.com/harshkum99/whatsup/assets/122433517/6a4baaa2-c713-455c-a042-90153e5b55e0">
+Chat Screen
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
